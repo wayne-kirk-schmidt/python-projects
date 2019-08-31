@@ -1,4 +1,4 @@
-Windows Batch Projects
+Python Script Projects
 ======================
 The Python projects are to capture simple scripts that both 
 teach details and scripting advice when dealing with python.
